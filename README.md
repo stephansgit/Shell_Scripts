@@ -1,2 +1,2 @@
 # Shell_Scripts
-A few small shell scripts
+This repo contains a few small shell scripts that did prove to be helpful.
